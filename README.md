@@ -1,1 +1,1 @@
-# tableau_citibike_story
+For this assignment, I used Tableau's visualizations, dashboards and story features to create a statistical, demographic and geographic analysis of Citibike's Jersey City program from 2018-2020. This dataset was chosen to capture whatever anomalies the 2020 pandemic may have brought as well as to prevent Tableau Public from trying to parse too large a file.
